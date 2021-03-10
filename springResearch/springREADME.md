@@ -5,7 +5,7 @@
  - need to add code to parse thru each pre processed png, doesn't wor
    for direcotry of files for some reason
  - currently everything is inside one directory
- - pdfproc.py doesnt work on 11 pages but does work on one png
+ - pdfproc.py doesnt work on 11 pages but does work on one png, seprate   pdfs into pngs then run on each png ina for loop in  a directory
  - 
 
  TODO:
