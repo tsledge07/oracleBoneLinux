@@ -1,0 +1,25 @@
+CREATE TABLE SectionHeader (
+  RadicalID int PRIMARY KEY, 
+  Script varbinary(max), 
+  ChnChar nchar(1)
+};
+
+CREATE TABLE Character (
+  CharNo int PRIMARY KEY, 
+  DefaultScript varbinary(max), 
+  ChnChar nchar(1), 
+  PhoneticNotation nchar(6), 
+  EnglishTranslation varchar(100), 
+  LeiCuanNo int, 
+  Notes nvarchar(100),
+  RadicalID int FOREIGN KEY 
+    REFERENCES SectionHeader
+);
+
+CREATE TABLE Variation (
+  SeqNo int PRIMARY KEY, 
+  Script varbinary(max), 
+  SpecimentNo int,
+  CharNo int FOREIGN KEY 
+    REFERENCES Character
+};
