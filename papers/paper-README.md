@@ -11,6 +11,9 @@ Detection
 5. Natural Language Processing and Chinese Computing : 4th CCF Conference, NLPCC 2015, Nanchang, China, October 9-13, 2015, Proceedings
 - https://ebookcentral.proquest.com/lib/merceru/detail.action?docID=5579077
 
+6. Recurrent Neural Networks with Python Quick Start Guide : Sequential Learning and Language Modeling with TensorFlow
+- https://ebookcentral.proquest.com/lib/merceru/detail.action?docID=5609746
+
 ### Ebook for Artificial Neural Networks and Machine Learning - 
 ### ICANN 2018 : 27th International Conference on Artificial Neural Networks, Rhodes, Greece, October 4-7, 2018, Proceedings, Part I
 https://ebookcentral.proquest.com/lib/merceru/detail.action?docID=6244076
@@ -19,3 +22,5 @@ https://ebookcentral.proquest.com/lib/merceru/detail.action?docID=6244076
 . https://ebookcentral.proquest.com/lib/merceru/reader.action?docID=6244076&ppg=193
 #### Balancing CNNN Pipelines in FPGAs
 - https://ebookcentral.proquest.com/lib/merceru/reader.action?docID=6244076&ppg=205
+
+
