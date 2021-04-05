@@ -8,7 +8,8 @@ Detection
     https://dl.acm.org/doi/pdf/10.1109/TASLP.2015.2432578
 4. Advance in Computer Science and Ubiquitous Computing
    https://ebookcentral.proquest.com/lib/merceru/reader.action?docID=5214983&ppg=958
-
+5. Natural Language Processing and Chinese Computing : 4th CCF Conference, NLPCC 2015, Nanchang, China, October 9-13, 2015, Proceedings
+- https://ebookcentral.proquest.com/lib/merceru/detail.action?docID=5579077
 
 ### Ebook for Artificial Neural Networks and Machine Learning - 
 ### ICANN 2018 : 27th International Conference on Artificial Neural Networks, Rhodes, Greece, October 4-7, 2018, Proceedings, Part I
