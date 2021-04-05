@@ -6,7 +6,8 @@ Detection
 2. Oracle Bone Inscription Detection
 3. Extractive Broadcast News Summarization Leveraging Recurrent Neural Network Language Modeling Techniques
     https://dl.acm.org/doi/pdf/10.1109/TASLP.2015.2432578
-4. 
+4. Advance in Computer Science and Ubiquitous Computing
+   https://ebookcentral.proquest.com/lib/merceru/reader.action?docID=5214983&ppg=958
 
 
 ### Ebook for Artificial Neural Networks and Machine Learning - 
