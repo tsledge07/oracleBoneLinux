@@ -8,3 +8,4 @@ ML Capabilities on Linux for Oracle Bone
 - the radical is kinda like a letter in english characters
 - 214 total radicals possible
 - 1 - 17 stroke chars 
+-   https://www.asianlanguageschool.com/chinese-characters-radicals-stroke-order/
