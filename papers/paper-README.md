@@ -28,6 +28,8 @@ https://ebookcentral.proquest.com/lib/merceru/detail.action?docID=6244076
 - https://github.com/thunlp/IsOBS/tree/main/data_oct/test_1600
 - https://github.com/brendenlake/omniglot/tree/master/python
 - https://www.tensorflow.org/datasets/catalog/omniglot
+## Chinese Stroke Overview
+- https://en.wikibooks.org/wiki/Chinese_(Mandarin)/Writing_in_Chinese
 - https://www.digmandarin.com/chinese-strokes-list.html
 
 ### Keras API
