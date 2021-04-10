@@ -31,5 +31,6 @@ https://ebookcentral.proquest.com/lib/merceru/detail.action?docID=6244076
 ## Chinese Stroke Overview
 - https://en.wikibooks.org/wiki/Chinese_(Mandarin)/Writing_in_Chinese
 - https://www.digmandarin.com/chinese-strokes-list.html
+- https://www.archchinese.com/traditional_chinese_radicals.html
 
 ### Keras API
