@@ -21,3 +21,8 @@ ML Capabilities on Linux for Oracle Bone
 5. Idea -- Tracing the changes in charaters through different geenrations
 
 1. Recognize character
+
+
+- Cloud Server - AWS
+- SQL Server
+- Dockerize ----> Environment 
