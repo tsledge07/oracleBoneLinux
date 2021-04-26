@@ -26,3 +26,5 @@ ML Capabilities on Linux for Oracle Bone
 - Cloud Server - AWS
 - SQL Server
 - Dockerize ----> Environment 
+
+- Python Animations based on Scripts
