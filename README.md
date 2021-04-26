@@ -9,3 +9,15 @@ ML Capabilities on Linux for Oracle Bone
 - 214 total radicals possible
 - 1 - 17 stroke chars 
 -   https://www.asianlanguageschool.com/chinese-characters-radicals-stroke-order/
+
+## Else
+
+1. Categorize by Generation and Radical
+2. Create a Database for current scripts - to help in visualization
+    - 1500 recognized
+    - 50k available
+3. Use original forms to explain the current/modern characters exist
+4. CSS - clustering visualization
+5. Idea -- Tracing the changes in charaters through different geenrations
+
+1. Recognize character
