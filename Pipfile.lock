@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "48c190617902d61dd032d89feba79c0afdda2aac58f299de2fafb2b0aca77848"
+            "sha256": "12a7be650d0a63fc79d332ffcb3dac26632095bec06bf65ca5f9e0552e4eb3f3"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -37,6 +37,22 @@
             ],
             "index": "pypi",
             "version": "==3.1.13"
+        },
+        "dnspython": {
+            "hashes": [
+                "sha256:36c5e8e38d4369a08b6780b7f27d790a292b2b08eea01607865bf0936c558e01",
+                "sha256:f69c21288a962f4da86e56c4905b49d11aba7938d3d740e80d9e366ee4f1632d"
+            ],
+            "index": "pypi",
+            "version": "==1.16.0"
+        },
+        "mongoengine": {
+            "hashes": [
+                "sha256:3d1c8b9f5d43144bd726a3f01e58d2831c6fb112960a4a60b3a26fa85e026ab3",
+                "sha256:de275e70cd58891dc46eef43369c522ce450dccb6d6f1979cbc9b93e6bdaf6cb"
+            ],
+            "index": "pypi",
+            "version": "==0.23.1"
         },
         "pdfminer": {
             "hashes": [

@@ -7,9 +7,13 @@ name = "pypi"
 Django = "~=3.1.0"
 Tree = "*"
 pdfminer = "*"
-pymongo = "*"
+dnspython = "*"
+mongoengine = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.9"
+
+[packages.pymongo]
+extras = [ "srv",]
